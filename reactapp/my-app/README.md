@@ -1,3 +1,15 @@
+*** FRONT END USER INTERFACE ***
+![Frontend](https://user-images.githubusercontent.com/36484444/151184518-f7c5959b-da03-4d1d-a4dc-d5ad7865d9eb.png)
+![Frontend_login](https://user-images.githubusercontent.com/36484444/151184716-c060bfb2-9711-47cc-adf8-725d815f460a.png)
+*** ***
+***Testing Routes with POSTMAN ***
+![adding new user to DB_POSTMAN](https://user-images.githubusercontent.com/36484444/151185001-ea025c3c-41e5-4831-a2a4-665c1cce280d.png)
+![GET_using REQ Parameter_Title_POSTMAN](https://user-images.githubusercontent.com/36484444/151185087-9cb48a17-1543-46ad-a02c-ce8af5d168f6.png)
+![NEW_BUG_ADDED_DB](https://user-images.githubusercontent.com/36484444/151185117-ce41e525-e361-4e0f-8b19-be7dc52eb5d6.png)
+![POST_newbug_POSTMAN](https://user-images.githubusercontent.com/36484444/151185150-e5dfdd23-2d90-4100-86a2-781bf3573532.png)
+![PUT_BUG_POSTMAN](https://user-images.githubusercontent.com/36484444/151185184-f76b4fb4-3870-4bdb-a178-0d5d7e2cf6a6.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
